@@ -94,5 +94,6 @@ gerçekleştirebildiğimiz bir sistemdir. Bu sistemde iki tip kullanıcı vardı
 
 ## Eksik Modüller
 ❌ Mesajlaşma modülü tamamlanamadı.  
-❌ Kredi kartı ile ödeme servisi için MongoDB bağlantısı yapılmış ve servis Web API şeklinde oluşturulmuştur. Postman ve Swagger üzerinden  
-yapılan denemelerde, veri tabanı bağlantısı sorunsuz çalışmaktadır. Ancak ödeme modülüyle yapılan denemelerde hatalar bulunmaktadır.
+❌ Kredi kartı ile ödeme servisi için MongoDB bağlantısı yapılmış ve servis Web API şeklinde oluşturulmuştur.  
+Postman ve Swagger üzerinden yapılan denemelerde, veri tabanı bağlantısı sorunsuz çalışmaktadır.
+Ancak ödeme modülüyle yapılan denemelerde hatalar bulunmaktadır.
