@@ -1,8 +1,7 @@
 ﻿# Patika.dev & Logo Yazılım .NET Core Bootcamp Bitirme Projesi : Invoice Management System
+## Proje Tanımı
 Bir sitede yer alan dairelerin aidat ve ortak kullanım; elektrik, su ve doğalgaz faturalarının yönetimini 
 gerçekleştirebildiğimiz bir sistemdir. Bu sistemde iki tip kullanıcı vardır:
-
-## Proje Tanımı
 
 ### 1- Admin/Yönetici
 ✔️ Daire bilgilerini girebilir.  
@@ -23,7 +22,7 @@ gerçekleştirebildiğimiz bir sistemdir. Bu sistemde iki tip kullanıcı vardı
 ✔️ Yaptığı ödemelerini görür.  
 
 ### Daire/Konut bilgilerinde:
-● Hangi blokda ● Durumu (Dolu-boş) ● Tipi (2+1 vb.) ● Bulunduğu kat
+● Hangi blokda ● Durumu (Dolu-boş) ● Tipi (2+1 vb.) ● Bulunduğu kat bulunur.
 
 ### Kullanıcı bilgilerinde:
 ● Ad-soyad ● TCNo ● E-Mail ● Telefon ● Araç bilgisi(varsa plaka no) bulunur.
@@ -38,7 +37,8 @@ gerçekleştirebildiğimiz bir sistemdir. Bu sistemde iki tip kullanıcı vardı
 - Sistemin yönetimi/database: MS SQL Server - MongoDB
 
 ## Tamamlanan Modüller ve Ekran Görüntüleri
-
+✔ Kullanıcıların sisteme erişimi için Giriş ve Kayıt ekranları oluşturulmuştur.
+![Login_Page](C:\Users\melek\source\repos\melekny\Invoice-Management-System\Images\Login.png)
 
 
 ## Eksik Modüller
