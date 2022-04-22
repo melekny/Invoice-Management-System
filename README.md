@@ -39,8 +39,8 @@ gerçekleştirebildiğimiz bir sistemdir. Bu sistemde iki tip kullanıcı vardı
 ## Tamamlanan Modüller ve Uygulama Ekran Görüntüleri
 
 ✔ Kullanıcıların sisteme erişimi için Giriş ve Kayıt ekranları oluşturulmuştur.  
-![Login_Page](C:\Users\melek\source\repos\melekny\Invoice-Management-System\Images\Login_Page.png)
-![Register_Page](C:\Users\melek\source\repos\melekny\Invoice-Management-System\Images\Register_Page.png)
+![Login_Page](https://github.com/melekny/Invoice-Management-System/blob/main/Images/Login_Page.png)
+![Register_Page](https://github.com/melekny/Invoice-Management-System/blob/main/Images/Register_Page.png)
 
 ✔ "Ana Sayfa" üzerinden diğer sayfalara ulaşılabilir.
 
