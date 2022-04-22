@@ -36,11 +36,30 @@ gerçekleştirebildiğimiz bir sistemdir. Bu sistemde iki tip kullanıcı vardı
 - Backend: .Net Core - C# | Frontend: Razor
 - Sistemin yönetimi/database: MS SQL Server - MongoDB
 
-## Tamamlanan Modüller ve Ekran Görüntüleri
-✔ Kullanıcıların sisteme erişimi için Giriş ve Kayıt ekranları oluşturulmuştur.
-![Login_Page](C:\Users\melek\source\repos\melekny\Invoice-Management-System\Images\Login.png)
+## Tamamlanan Modüller ve Uygulama Ekran Görüntüleri
+
+✔ Kullanıcıların sisteme erişimi için Giriş ve Kayıt ekranları oluşturulmuştur.  
+![Login_Page](C:\Users\melek\source\repos\melekny\Invoice-Management-System\Images\Login_Page.png)
+![Register_Page](C:\Users\melek\source\repos\melekny\Invoice-Management-System\Images\Register_Page.png)
+
+✔ "Ana Sayfa" üzerinden diğer sayfalara ulaşılabilir.
+
+✔ Yönetici, "Apartmanlar" sayfasında; apartman bilgisi ekleme, listeleme, düzenleme ve silme işlemlerini yapabilir.
+
+✔ Yönetici, "Daireler" sayfasında; daire/konut bilgisi ekleme, listeleme, düzenleme ve silme işlemlerini yapabilir.
+
+✔ Yönetici, "Kullanıcılar" sayfasında; sitede ikamet eden kullanıcı bilgisi ekleme, listeleme, düzenleme ve silme işlemlerini yapabilir.  
+
+✔ Yönetici, "Faturalar" sayfasında; fatura bilgisi ekleme, listeleme, düzenleme ve silme işlemlerini yapabilir.  
+
+✔ Yönetici, "Profilim" sayfasında; kullanıcı bilgisini düzenleyebilir.
+
+✔ Kullanıcılar, "Faturalar" sayfasında; yönetici tarafından atanan fatura ve aidat bilgilerini görebilirler.
+
+✔ Kullanıcılar, ödeme modülüyle; sadece kredi kartı ile ödeme yapabilir ve ödemelerini görüntüleyebilirler.  
+
 
 
 ## Eksik Modüller
 ❌ Mesajlaşma modülü tamamlanamadı.  
-❌ Kredi kartı ile ödeme servisi düzgün çalışmamaktadır.  
+❌ Kredi kartı ile ödeme servisi için MongoDB bağlantısı yapılmış ve Web API şeklinde oluşturulmuştur. Ancak düzgün çalışmamaktadır.  
