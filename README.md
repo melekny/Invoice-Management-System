@@ -1,6 +1,6 @@
 ﻿# Patika.dev & Logo Yazılım .NET Core Bootcamp Bitirme Projesi : Invoice Management System
 ## Proje Tanımı
-Bir sitede yer alan dairelerin aidat ve ortak kullanım; elektrik, su ve doğalgaz faturalarının yönetimini 
+Bir sitede yer alan dairelerin, aidat ve ortak kullanım; elektrik, su ve doğalgaz faturalarının yönetimini 
 gerçekleştirebildiğimiz bir sistemdir. Bu sistemde iki tip kullanıcı vardır:
 
 ### 1- Admin/Yönetici
@@ -77,12 +77,12 @@ gerçekleştirebildiğimiz bir sistemdir. Bu sistemde iki tip kullanıcı vardı
 
 ---
 
-✔ Yönetici, "Profilim" sayfasında; kullanıcı bilgisini düzenleyebilir.
+✔ Yönetici, "Profilim" sayfasında; kullanıcı bilgilerini düzenleyebilir.
 ![Update_Profile](https://github.com/melekny/Invoice-Management-System/blob/main/Images/Update_Profile.png)
 
 ---
 
-✔ Kullanıcılar, "Faturalar" sayfasında; yönetici tarafından atanan fatura ve aidat bilgilerini görebilirler.
+✔ Kullanıcılar, "Faturalar" sayfasında; yönetici tarafından atanan fatura ve aidat bilgilerini görüntüleyebilirler.
 ![Payment_List](https://github.com/melekny/Invoice-Management-System/blob/main/Images/Payment_List.png)
 
 ---
@@ -94,4 +94,5 @@ gerçekleştirebildiğimiz bir sistemdir. Bu sistemde iki tip kullanıcı vardı
 
 ## Eksik Modüller
 ❌ Mesajlaşma modülü tamamlanamadı.  
-❌ Kredi kartı ile ödeme servisi için MongoDB bağlantısı yapılmış ve Web API şeklinde oluşturulmuştur. Ancak düzgün çalışmamaktadır.  
+❌ Kredi kartı ile ödeme servisi için MongoDB bağlantısı yapılmış ve servis Web API şeklinde oluşturulmuştur. Postman ve Swagger üzerinden  
+yapılan denemelerde, veri tabanı bağlantısı sorunsuz çalışmaktadır. Ancak ödeme modülüyle yapılan denemelerde hatalar bulunmaktadır.
