@@ -50,11 +50,15 @@ gerçekleştirebildiğimiz bir sistemdir. Bu sistemde iki tip kullanıcı vardı
 
 ✔ "Ana Sayfa" üzerinden diğer sayfalara ulaşılabilir.
 ![Home_Page](https://github.com/melekny/Invoice-Management-System/blob/main/Images/Home_Page.png)
+
 ---
+
 ✔ Yönetici, "Apartmanlar" sayfasında; apartman bilgisi ekleme, listeleme, düzenleme ve silme işlemlerini yapabilir.
 ![Add_Apartment](https://github.com/melekny/Invoice-Management-System/blob/main/Images/Add_Apartment.png)  
 ![Apartment_List](https://github.com/melekny/Invoice-Management-System/blob/main/Images/Apartment_List.png) 
+
 ---
+
 ✔ Yönetici, "Daireler" sayfasında; daire/konut bilgisi ekleme, listeleme, düzenleme ve silme işlemlerini yapabilir.
 ![Add_House](https://github.com/melekny/Invoice-Management-System/blob/main/Images/Add_House.png)  
 ![House_List](https://github.com/melekny/Invoice-Management-System/blob/main/Images/House_List.png)
@@ -77,8 +81,10 @@ gerçekleştirebildiğimiz bir sistemdir. Bu sistemde iki tip kullanıcı vardı
 ![Update_Profile](https://github.com/melekny/Invoice-Management-System/blob/main/Images/Update_Profile.png)
 
 ---
+
 ✔ Kullanıcılar, "Faturalar" sayfasında; yönetici tarafından atanan fatura ve aidat bilgilerini görebilirler.
 ![Payment_List](https://github.com/melekny/Invoice-Management-System/blob/main/Images/Payment_List.png)
+
 ---
 
 ✔ Kullanıcılar, ödeme modülüyle; sadece kredi kartı ile ödeme yapabilir ve ödemelerini görüntüleyebilirler.  
